@@ -124,8 +124,8 @@ Jenis pengiriman    : Biasa
 Status Member       : Tidak
 Total Biaya Pengiriman: Rp 23,000
 ================================================================
-                    NAMA : Aldi Rismandayana
-                        NIM : 312410015
+                    NAMA : Ibnu Nazhif Alamsyah
+                        NIM : 312410094
 ================================================================
 === Program Perhitungan Biaya Pengiriman ===
 Masukkan berat paket (kg): 99
@@ -140,8 +140,8 @@ Jenis pengiriman    : Express
 Status Member       : Ya
 Total Biaya Pengiriman: Rp 38,700
 ================================================================
-                    NAMA : Aldi Rismandayana
-                        NIM : 312410015
+                    NAMA : Ibnu Nazhif Alamsyah
+                        NIM : 312410094
 ================================================================
 === Program Perhitungan Biaya Pengiriman ===
 Masukkan berat paket (kg): 99
@@ -156,8 +156,8 @@ Jenis pengiriman    : Express
 Status Member       : Ya
 Total Biaya Pengiriman: Rp 38,700
 ================================================================
-                    NAMA : Aldi Rismandayana
-                        NIM : 312410015
+                    NAMA : Ibnu Nazhif Alamsyah
+                        NIM : 312410094
 ================================================================
 ````
 
