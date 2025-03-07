@@ -87,8 +87,8 @@ if __name__ == "__main__":
     print(f"Total Biaya Pengiriman: Rp {biaya:,.0f}")
 
     print("="*64)
-    print("NAMA : Aldi Rismandayana".center(64))
-    print(f'NIM : {312410015}'.center(64))
+    print("NAMA : Ibnu Nazhif Alamsyah".center(64))
+    print(f'NIM : {312410094}'.center(64))
     print("="*64)
 ```
 
@@ -108,8 +108,8 @@ Jenis pengiriman    : Biasa
 Status Member       : Ya
 Total Biaya Pengiriman: Rp 20,700
 ================================================================
-                    NAMA : Aldi Rismandayana
-                        NIM : 312410015
+                    NAMA : Ibnu Nazhif Alamsyah
+                        NIM : 312410094
 ================================================================
 === Program Perhitungan Biaya Pengiriman ===
 Masukkan berat paket (kg): 90
