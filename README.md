@@ -96,14 +96,14 @@ if __name__ == "__main__":
 ## Output 
 ````markdown
 === Program Perhitungan Biaya Pengiriman ===
-Masukkan berat paket (kg): 90
-Masukkan jarak pengiriman (km): 100
+Masukkan berat paket (kg): 95
+Masukkan jarak pengiriman (km): 120
 Masukkan jenis pengiriman (biasa/express): biasa
 Apakah pelanggan member? (ya/tidak): ya
 
 === Rincian Biaya Pengiriman ===
-Berat paket         : 90.0 kg
-Jarak pengiriman    : 100.0 km
+Berat paket         : 95.0 kg
+Jarak pengiriman    : 120.0 km
 Jenis pengiriman    : Biasa
 Status Member       : Ya
 Total Biaya Pengiriman: Rp 20,700
@@ -118,8 +118,8 @@ Masukkan jenis pengiriman (biasa/express): biasa
 Apakah pelanggan member? (ya/tidak): tidak
 
 === Rincian Biaya Pengiriman ===
-Berat paket         : 90.0 kg
-Jarak pengiriman    : 100.0 km
+Berat paket         : 95.0 kg
+Jarak pengiriman    : 120.0 km
 Jenis pengiriman    : Biasa
 Status Member       : Tidak
 Total Biaya Pengiriman: Rp 23,000
@@ -128,14 +128,14 @@ Total Biaya Pengiriman: Rp 23,000
                         NIM : 312410094
 ================================================================
 === Program Perhitungan Biaya Pengiriman ===
-Masukkan berat paket (kg): 99
-Masukkan jarak pengiriman (km): 100
+Masukkan berat paket (kg): 95
+Masukkan jarak pengiriman (km): 120
 Masukkan jenis pengiriman (biasa/express): express
 Apakah pelanggan member? (ya/tidak): ya
 
 === Rincian Biaya Pengiriman ===
-Berat paket         : 99.0 kg
-Jarak pengiriman    : 100.0 km
+Berat paket         : 95.0 kg
+Jarak pengiriman    : 120.0 km
 Jenis pengiriman    : Express
 Status Member       : Ya
 Total Biaya Pengiriman: Rp 38,700
@@ -144,14 +144,14 @@ Total Biaya Pengiriman: Rp 38,700
                         NIM : 312410094
 ================================================================
 === Program Perhitungan Biaya Pengiriman ===
-Masukkan berat paket (kg): 99
-Masukkan jarak pengiriman (km): 100
+Masukkan berat paket (kg): 95
+Masukkan jarak pengiriman (km): 120
 Masukkan jenis pengiriman (biasa/express): express
 Apakah pelanggan member? (ya/tidak): ya
 
 === Rincian Biaya Pengiriman ===
-Berat paket         : 99.0 kg
-Jarak pengiriman    : 100.0 km
+Berat paket         : 95.0 kg
+Jarak pengiriman    : 120.0 km
 Jenis pengiriman    : Express
 Status Member       : Ya
 Total Biaya Pengiriman: Rp 38,700
